@@ -51,4 +51,12 @@
   <li></li>
 </ul>
 <br>
-<p><b>Diagrama de Blocos</b></p>
+<p><b>Diagrama em Bloco</b></p>
+<br>
+<p><b>Circuito Elétrico</b></p>
+<br>
+<p><b>Layout da PCB</b></p>
+<br>
+<p><b>Modelo 3D</b></p>
+<br>
+<p><b>Datasheets dos Componentes</b></p>
