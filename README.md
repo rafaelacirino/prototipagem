@@ -11,8 +11,44 @@
 <br>
 <br>
 <br>
-<p style="text-align:center">JOÃO HENRIQUE A. DA SILVA</p>
-<p style="text-align:center">RAFAELA BORBA FALCÃO CIRINO</p>
-<p style="text-align:center">RENATA DA SILVA FERREIRA</p>
-
-
+<p>JOÃO HENRIQUE A. DA SILVA</p>
+<p>RAFAELA BORBA FALCÃO CIRINO</p>
+<p>RENATA DA SILVA FERREIRA</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><b>PROJETO PCB - STM32 BLUE PILL</b></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><b>Objetivo</b></p>
+<br>
+<p>Este trabalho tem como objetivo demonstrar um projeto PCB utilizando o microcontrolador SM32 Blue Pill. Como o próprio nome já especifica, é um dispositivo de 32 bits. A Blue Pill tem as seguintes características que a fazem ser o microcontrolador escolhido, são elas:</p>
+<ul>
+  <li>custo baixo;</li>
+  <li>disponibilidade (facilmente encontrado no mercado);</li>
+  <li>capacidade avançada;</li>
+  <li>formato pequeno da PCB</li>
+</ul>
+<br>
+<p>O software utilizado para gerar demais diagramas bem como circuito, layout da PCB e modelo 3D foi o Fusion 360.</p>
+<p><b>Componentes Utilizados</b></p>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+<br>
+<p><b>Diagrama de Blocos</b></p>
