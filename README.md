@@ -11,7 +11,7 @@
 
 
 
-<p justify:center>JOÃO HENRIQUE A. DA SILVA</p>
+<p text-align:center>JOÃO HENRIQUE A. DA SILVA</p>
 <p justify:center>RAFAELA BORBA FALCÃO CIRINO</p>
 <p justify:center>RENATA DA SILVA FERREIRA<p>
 
