@@ -60,3 +60,5 @@
 <p><b>Modelo 3D</b></p>
 <br>
 <p><b>Datasheets dos Componentes</b></p>
+<br>
+<a href="https://github.com/rafaelacirino/prototipagem/tree/main/Datasheets">Lista de Datasheets</a>
