@@ -59,6 +59,8 @@
 <br>
 <p><b>Modelo 3D</b></p>
 <br>
+<a href="https://github.com/rafaelacirino/prototipagem/blob/main/3D.jpeg">Modelo 3D</a>
+<br>
 <p><b>Datasheets dos Componentes</b></p>
 <br>
 <a href="https://github.com/rafaelacirino/prototipagem/tree/main/Datasheets">Lista de Datasheets</a>
