@@ -42,10 +42,9 @@
 </ul>
 <br>
 <p>O software utilizado para gerar demais diagramas bem como circuito, layout da PCB e modelo 3D foi o Fusion 360.</p>
+<br>
+<br>
 <p><b>Lista de Componentes Utilizados (BOM)</b></p>
-<br>
-<a href="https://github.com/rafaelacirino/prototipagem/blob/main/Esquem%C3%A1tico_BOM.txt">Lista de Componentes (BOM) em txt</a>
-<br>
 <br>
 <p><b>Diagrama em Bloco</b></p>
 <br>
@@ -54,8 +53,6 @@
 <p><b>Layout da PCB</b></p>
 <br>
 <p><b>Modelo 3D</b></p>
-<br>
-<br>
 <br>
 <p><b>Datasheets dos Componentes</b></p>
 <br>
