@@ -31,9 +31,16 @@
 <br>
 <br>
 <br>
-<p><b>Objetivo</b></p>
+<p><b>Introdução</b></p>
 <br>
-<p>Este trabalho tem como objetivo demonstrar um projeto PCB utilizando o microcontrolador SM32 Blue Pill. Como o próprio nome já especifica, é um dispositivo de 32 bits. A Blue Pill tem as seguintes características que a fazem ser o microcontrolador escolhido, são elas:</p>
+<p>Uma das técnicas para intensifi car a produção de alimentos é a robótica. Nos últimos anos, diversos avanços foram feitos no setor. A velocidade de operação dos robôs ultrapassou a de humanos e eles estão alcançando outras habilidades, podendo trabalhar continuamente e de forma consistente com o mínimo de manutenção (TANKE et al., 2011).</p>
+<br>
+<p>A automação na agricultura é um sistema pelo qual os processos de produção são monitorados, controlados e executados por meio de máquinas e ou dispositivos eletrônicos, mecênicos ou computacionais com o intuito de auxiliar e ampliar a capacidade de trabalho humano. Desta forma, a automação exerce função sobre processos com intuito de aumentar a produtividade do sistema e do trabalho, otimizando o uso de seu tempo, insumos e capital, reduzindo perdas na produção, aumentando a qualidade dos produtos e melhorando a qualidade de vida dos trabalhadores.</p>
+<br>
+<p><b>Objetivos</b></p>
+<br>
+<p>Este trabalho tem como objetivo demonstrar um projeto de braço robótico modelado pelo software Autocad Fusion 360 para que seja utilizado na automação agrícola. O braço robótico modelado servirá para auxiliar a organização de caixas na distribuição de alimentos, ou seja, um robô paletizador de caixas o qual é responsável por todo processo logístico, garantindo organização da mercadoria de maneira automatizada.</p>
+<br>
 <ul>
   <li>custo baixo;</li>
   <li>disponibilidade (facilmente encontrado no mercado);</li>
