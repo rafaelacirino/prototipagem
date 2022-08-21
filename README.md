@@ -22,7 +22,7 @@
 <br>
 <br>
 <br>
-<p><b>PROJETO PCB</b></p>
+<p><b>PROJETO PCB - SM32 Blue Pill</b></p>
 <br>
 <br>
 <br>
