@@ -54,6 +54,8 @@
 <br>
 <p><b>Layout da PCB em formato pdf</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/Layout_PCB.pdf"> aqui</a>.</p>
 <br>
+<p><b>PCB em formato fbrd</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/PCB%20v54.fbrd"> aqui</a>.</p>
+<br>
 <p><b>Layout da PCB em formato f3d</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/PCB%20v1.f3d"> aqui</a>.</p>
 <br>
 <p><b>Modelo 3D</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/Modelo3D.pdf"> aqui</a>.</p>
@@ -64,4 +66,5 @@
 <ul>
   <li>Esquemático<a href="https://github.com/rafaelacirino/prototipagem/blob/main/Esquem%C3%A1tico%20v92.fsch"> aqui</a></li>
   <li>Eletronic Design Kit didático<a href="https://github.com/rafaelacirino/prototipagem/blob/main/Electronics%20Design%20Kit%20did%C3%A1tico%20v57.f3z"> aqui</a></li>
+  <li>Biblioteca do kit didático<a href="https://github.com/rafaelacirino/prototipagem/blob/main/KitDidatico_library%20v55.flbr"> aqui</a></li>
 </ul>
