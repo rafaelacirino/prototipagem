@@ -44,16 +44,24 @@
 <p>O software utilizado para gerar demais diagramas bem como circuito, layout da PCB e modelo 3D foi o Fusion 360.</p>
 <br>
 <br>
-<p><b>Lista de Componentes Utilizados (BOM)</b></p>
+<p><b>Lista de Componentes Utilizados (BOM)</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/ListaComponentes_BOM.txt"> aqui</a>.</p>
 <br>
-<p><b>Diagrama em Bloco</b></p>
+<p><b>Diagrama em Bloco</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/DiagramaBloco_PCB.pdf"> aqui</a>.</p>
 <br>
-<p><b>Circuito Elétrico</b></p>
+<p><b>Circuito Elétrico</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/Circuito_Eletrico.pdf"> aqui</a>.</p>
 <br>
-<p><b>Layout da PCB</b></p>
+<p><b>Layout da PCB em formato fbrd</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/Layout_PCB.fbrd"> aqui</a>.</p>
 <br>
-<p><b>Modelo 3D</b></p>
+<p><b>Layout da PCB em formato pdf</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/Layout_PCB.pdf"> aqui</a>.</p>
 <br>
-<p><b>Datasheets dos Componentes</b></p>
+<p><b>Layout da PCB em formato f3d</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/PCB%20v1.f3d"> aqui</a>.</p>
 <br>
-<p><b>Lista de Datasheets</b></p>
+<p><b>Modelo 3D</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/Modelo3D.pdf"> aqui</a>.</p>
+<br>
+<p><b>Datasheets dos Componentes</b><a href="https://github.com/rafaelacirino/prototipagem/tree/main/Datasheets"> aqui</a>.</p>
+<br>
+<p><b>Demais arquivos:</b></p>
+<ul>
+  <li>Esquemático<a href="https://github.com/rafaelacirino/prototipagem/blob/main/Esquem%C3%A1tico%20v92.fsch"> aqui</a></li>
+  <li>Eletronic Design Kit didático<a href="https://github.com/rafaelacirino/prototipagem/blob/main/Electronics%20Design%20Kit%20did%C3%A1tico%20v57.f3z"> aqui</a></li>
+</ul>
