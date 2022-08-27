@@ -46,7 +46,7 @@
 <br>
 <p><b>Lista de Componentes Utilizados (BOM)</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/ListaComponentes_BOM.txt"> aqui</a>.</p>
 <br>
-<p><b>Diagrama em Bloco</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/DiagramaBloco_PCB.pdf"> aqui</a>.</p>
+<p><b>Diagrama em Bloco</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/DiagramaBloco_PCB.drawio.pdf"> aqui</a>.</p>
 <br>
 <p><b>Circuito Elétrico</b><a href="https://github.com/rafaelacirino/prototipagem/blob/main/Circuito_Eletrico.pdf"> aqui</a>.</p>
 <br>
